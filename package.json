@@ -1,9 +1,9 @@
 {
-  "name": "app",
+  "name": "Ammar constructions",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://minhajuddinali.github.io/test",
+  "homepage": "https://minhajuddinali.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
